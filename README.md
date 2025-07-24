@@ -12,12 +12,29 @@ O principal objetivo deste estudo é aplicar os conceitos práticos da disciplin
 
 O conteúdo é baseado no livro **Sistemas de Controle Modernos** ($8^{a}$ ou $13^{a}$ Edição) de Dorf e Bishop. Abaixo estão os links para os estudos de cada capítulo:
 
-* **[Capítulo 4: Características de Sistemas de Controle com Realimentação](https://colab.research.google.com/drive/13O4S58eiQ-5oNrUJqN_b74F2S7fvByAb?usp=sharing)**
-* **[Capítulo 5: O Desempenho de Sistemas de Controle com Realimentação](https://colab.research.google.com/drive/1lofd1ZPpFwoirhjvAqHdaZshHwyiQYQu?usp=sharing)**
-* **[Capítulo 6: A Estabilidade de Sistemas Lineares com Realimentação](https://colab.research.google.com/drive/15vJG7jCOCdTJsDs0i1xd-LNhF1QUgaFI?usp=sharing)**
-* **[Capítulo 7: O Método do Lugar das Raízes](https://colab.research.google.com/drive/1Z0GFjoR_O_QA2TRwhsttgLmcCgmuS57F?usp=sharing)**
-* **[Capítulo 10: O Projeto de Sistemas de Controle com Realimentação](https://colab.research.google.com/drive/1afvo34HSY-YbGVK2opaKHdOHlW3Zz7Ru?usp=sharing)**
-* **[Capítulo 13: Sistemas de Controle Digital](https://colab.research.google.com/drive/1wF9_yik2Fu3fLi9PQOcNhw5siAoWpcyw?usp=sharing)**
+## 📚 Conteúdo Programático
+
+O conteúdo é baseado no livro **Sistemas de Controle Modernos** ($8^{a}$ ou $13^{a}$ Edição) de Dorf e Bishop. Abaixo estão os links para os estudos de cada capítulo e vídeos recomendados:
+
+* **[Capítulo 4: Características de Sistemas de Controle com Realimentação](https://colab.research.google.com/drive/13O4S58eiQ-5oNrUJqN_b74F2S7fvByAb?usp=sharing)**  
+  🎥 [Playlist: Sistemas de Controle com Realimentação](https://www.youtube.com/watch?v=neYCp5JoYV0&list=PLotZYHQBkGgQ7LzIkslTtXzmElRn7-Y99)
+
+* **[Capítulo 5: O Desempenho de Sistemas de Controle com Realimentação](https://colab.research.google.com/drive/1lofd1ZPpFwoirhjvAqHdaZshHwyiQYQu?usp=sharing)**  
+  🎥 [Playlist: Sistemas de Controle com Realimentação](https://www.youtube.com/watch?v=neYCp5JoYV0&list=PLotZYHQBkGgQ7LzIkslTtXzmElRn7-Y99)
+
+* **[Capítulo 6: A Estabilidade de Sistemas Lineares com Realimentação](https://colab.research.google.com/drive/15vJG7jCOCdTJsDs0i1xd-LNhF1QUgaFI?usp=sharing)**  
+  🎥 [Playlist: Estabilidade de Sistemas](https://www.youtube.com/watch?v=neYCp5JoYV0&list=PLotZYHQBkGgQ7LzIkslTtXzmElRn7-Y99)
+
+* **[Capítulo 7: O Método do Lugar das Raízes](https://colab.research.google.com/drive/1Z0GFjoR_O_QA2TRwhsttgLmcCgmuS57F?usp=sharing)**  
+  🎥 [Playlist: Lugar das Raízes e Realimentação](https://www.youtube.com/playlist?list=PLjhzxDly7tNTQbDJMuVpOb-P2GXH8NHwF)
+
+* **[Capítulo 10: O Projeto de Sistemas de Controle com Realimentação](https://colab.research.google.com/drive/1afvo34HSY-YbGVK2opaKHdOHlW3Zz7Ru?usp=sharing)**  
+  🎥 [Playlist: Compensadores e Projeto](https://www.youtube.com/playlist?list=PLjhzxDly7tNTQbDJMuVpOb-P2GXH8NHwF)
+
+* **[Capítulo 13: Sistemas de Controle Digital](https://colab.research.google.com/drive/1wF9_yik2Fu3fLi9PQOcNhw5siAoWpcyw?usp=sharing)**  
+  🎥 [Playlist: Controle Digital](https://www.youtube.com/watch?v=A4gAq-wcUgc&list=PLotZYHQBkGgQYY6pw_Y7G-BLlGshE6rYW)
+
+
 
 ## 🛠️ Ferramentas Recomendadas
 
